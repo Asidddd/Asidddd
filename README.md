@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asidddd
-- 👀 I’m interested in ...
+- 👀 I’m interested in exploring the world.
 - 🌱 I’m currently learning c.
 - 💞️ I’m looking to collaborate with other developers.
 - 📫 How to reach me ...
